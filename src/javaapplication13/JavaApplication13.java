@@ -6,7 +6,7 @@ package javaapplication13;
 
 /**
  * This is my practice example whixh i am doing over here.
- * @author Admin
+ * @author Adminffffffffffffffffffffffffffffffffffffffffffffffffffffffff
  */
 public class JavaApplication13 {
 
